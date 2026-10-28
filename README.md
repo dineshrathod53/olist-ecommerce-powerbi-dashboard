@@ -39,7 +39,25 @@ This project analyzes Olist e-commerce data using Power BI to understand sales p
 
 ## Dashboard Screenshots
 
-Dashboard screenshots are available in the `Screenshots` folder.
+## Dashboard Preview
+
+### 1. Olist Dashboard
+![Olist Dashboard](Oliest_Dashboard.png)
+
+### 2. Product Analysis
+![Product Analysis](Product%20Analysis.png)
+
+### 3. Region Analysis
+![Region Analysis](Region%20Analysis.png)
+
+### 4. Delivery Analysis
+![Delivery Analysis](Delivery%20Analysis.png)
+
+### 5. Landing Page
+![Landing Page](Landing%20page.png)
+
+### 6. Decomposition Tree
+![Decomposition Tree](Decomposition%20Tree.png)
 
 ## Project File
 
